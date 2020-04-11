@@ -1,3 +1,16 @@
+## Locals View
+
+Full stack app using Javascript, CSS, HTML, Google Maps API.
+
+Developer: Becky Lambert
+
+Locals View is a mom and pop shop locator for anywhere in the country. If you are all about supporting small local businesses this is your app. Step off the plane, out of the cab, or off the train and open the app to find all the locally owned and operated businesses in what ever area you're in. 
+
+Find a demo of the app here:  
+https://beckylambert.github.io/localsview/
+
+-------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
